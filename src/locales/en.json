@@ -1,0 +1,89 @@
+{
+  "header": {
+    "about": "About us",
+    "country": "countries",
+    "work": "Our works",
+    "service": "services",
+    "contact": "contact"
+  },
+  "home": {
+    "title": "Your comfort in travel is our concern."
+  },
+  "popular": {
+    "title": "Populars",
+    "turkey": "Turkey",
+    "thailand": "Thailand",
+    "malaysia": "Malaysia",
+    "singapore": "Singapore",
+    "indonezia": "Indonesia",
+    "sharmelsheyx": "Sharm El Sheikh",
+    "dubai": "Dubai"
+  },
+  "about": {
+    "title": "About us",
+    "text1": "VISA PRO CONSULTING is a rapidly growing company specializing in visa support for travelers. We ensure that your trips are comfortable and worry-free.",
+    "text2": "VISA PRO CONSULTING provides visa services for leisure and business trips to the Schengen Area, Canada, the USA, the UK, Japan, and Korea. Our team of experienced professionals ensures a high level of service, allowing you to focus on your travel plans.",
+    "text3": "We are committed to making the visa application process simple and understandable for clients from Uzbekistan, enabling them to easily and quickly access the best travel destinations in the world."
+  },
+  "countries": {
+    "title": "Countries",
+    "shengen": "Shengen",
+    "canada": "Canada",
+    "usa": "USA",
+    "uk": "UK",
+    "japan": "Japan",
+    "korea": "Korea",
+    "australia": "Australia",
+    "newZellend": "new zealand",
+    "latinAmerica": "Latin America"
+  },
+  "excursion": {
+    "title1": "Excursions",
+    "title2": "Our excursions will make your journey more meaningful and unforgettable.",
+    "save_time": "Time Saving",
+    "reliability": "Reliability",
+    "support": "Support",
+    "convenience": "Comfort",
+    "we_in_numbers": "We in Numbers",
+    "issued_visas": "Issued Visas",
+    "successful_trips": "Successful Trips",
+    "satisfied_clients": "Satisfied Clients"
+  },
+  "services": {
+    "title": "Services",
+    "visa_consultation": "Visa Consultation",
+    "tourist_visas": "Tourist Visas",
+    "business_visas": "Business Visas",
+    "document_preparation": "Document Preparation",
+    "travel_packages": "Travel Packages",
+    "insurance": "Insurance"
+  },
+  "text": {
+    "text1": "Specialists provide detailed consultations on visa applications for countries such as Schengen, Canada, the USA, the United Kingdom, Japan, and Korea. We explain all the nuances of document submission and help you prepare for the process.",
+    "text2": "We assist in obtaining tourist visas for comfortable travel to popular countries in Europe, North America, and Asia. Our specialists provide full support at every stage.",
+    "text3": "For business trips, VISA PRO CONSULTING offers comprehensive solutions for visa applications to the world's leading countries. We ensure a fast and professional document submission process.",
+    "text4": "We carefully check all your documents to ensure they meet the requirements of visa centers. We also assist in gathering the necessary certificates and information needed for a successful visa application.",
+    "text5": "We offer the selection of the best travel packages, including trip organization, hotel bookings, and excursions, to make your vacation as comfortable as possible.",
+    "text6": "We provide travel insurance that protects you and your loved ones during the trip, ensuring safety and confidence in any situation."
+  },
+  "travels": {
+    "title": "Travels"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "For inquiries:",
+    "phone": "+998 95 090 70 50",
+    "social_media": "Social Media",
+    "instagram": "xusanovv.m",
+    "telegram": "t.me/xusanovvm",
+    "telegram_alt": "Telegram",
+    "location": "Tashkent, Mustaqillik 59.",
+    "form_title": "Submit an Application",
+    "name_placeholder": "Name",
+    "surname_placeholder": "Surname",
+    "phone_placeholder": "Phone",
+    "message_placeholder": "Comments",
+    "submit_button": "Submit Application",
+    "modal_title": "Successfuly sent message!"
+  }
+}

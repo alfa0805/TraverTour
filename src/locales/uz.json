@@ -1,0 +1,89 @@
+{
+  "header": {
+    "about": "Biz haqimizda",
+    "country": "Mamlakatlar",
+    "work": "Ishlarimiz",
+    "service": "xizmatlar",
+    "contact": "aloqa"
+  },
+  "home": {
+    "title": "Sayohatdagi qulayligingiz bizning tashvishimizdir."
+  },
+  "popular": {
+    "title": "Ommabop",
+    "turkey": "Turkiya",
+    "thailand": "Thailand",
+    "malaysia": "Malaysiya",
+    "singapore": "Singapur",
+    "indonezia": "Indonesiya",
+    "sharmelsheyx": "Sharm El Sheikh",
+    "dubai": "Dubay"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "text1": "VISA PRO CONSULTING – sayohatchilar uchun viza qo‘llab-quvvatlash bo‘yicha tez rivojlanayotgan kompaniya. Biz sizning sayohatlaringiz qulay va tashvishsiz o‘tishini ta’minlaymiz.",
+    "text2": "VISA PRO CONSULTING Shengen hududi, Kanada, AQSh, Buyuk Britaniya, Yaponiya va Koreyaga dam olish va biznes safarlari uchun viza xizmatlarini taqdim etadi. Tajribali mutaxassislarimiz yuqori darajadagi xizmat ko‘rsatishni ta’minlaydi, bu esa sizga sayohat rejalaringizga e’tibor qaratishga imkon beradi.",
+    "text3": "Biz O‘zbekiston mijozlari uchun viza olish jarayonini sodda va tushunarli qilishga intilamiz, bu esa ularga dunyodagi eng yaxshi sayohat yo‘nalishlariga tez va oson kirish imkoniyatini yaratadi."
+  },
+  "countries": {
+    "title": "Davlatlar",
+    "shengen": "Shengen",
+    "canada": "Kanada",
+    "usa": "AQSh",
+    "uk": "Buyuk Britaniya",
+    "japan": "Yaponiya",
+    "korea": "Koreya",
+    "australia": "Avstraliya",
+    "newZellend": "Yangi Zelandiya",
+    "latinAmerica": "Lotin Amerikasi"
+  },
+  "excursion": {
+    "title1": "Ekskursiyalar",
+    "title2": "Bizning ekskursiyalarimiz sayohatingizni yanada mazmunli va esda qolarli qiladi.",
+    "save_time": "Vaqtingizni Tejash",
+    "reliability": "Ishonchlilik",
+    "support": "Qo'llab-quvvatlash",
+    "convenience": "Qulaylik",
+    "we_in_numbers": "Biz Raqamlarda",
+    "issued_visas": "Berilgan Vizalar",
+    "successful_trips": "Muvaffaqiyatli Sayohatlar",
+    "satisfied_clients": "Qoniqishdagi Mijozlar"
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "visa_consultation": "Viza Maslahati",
+    "tourist_visas": "Turistik Visalar",
+    "business_visas": "Biznes Visalar",
+    "document_preparation": "Hujjatlarni tayyorlash",
+    "travel_packages": "Sayohat paketlari",
+    "insurance": "Sug'urta"
+  },
+  "text": {
+    "text1": "Mutaxassislar Shengen, Kanada, AQSh, Buyuk Britaniya, Yaponiya va Koreya kabi mamlakatlar uchun viza arizalari bo‘yicha batafsil maslahatlar berishadi. Biz hujjat topshirish jarayonining barcha jihatlarini tushuntiramiz va sizni tayyorlashga yordam beramiz.",
+    "text2": "Biz Yevropa, Shimoliy Amerika va Osiyoning mashhur davlatlariga qulay sayohat uchun turistik vizalarni olishda yordam beramiz. Bizning mutaxassislarimiz har bir bosqichda to‘liq yordam ko‘rsatadi.",
+    "text3": "Biznes safarlari uchun VISA PRO CONSULTING dunyoning yetakchi davlatlariga viza olish bo‘yicha kompleks yechimlarni taklif etadi. Biz hujjat topshirish jarayonining tez va professional o‘tishini ta’minlaymiz.",
+    "text4": "Biz barcha hujjatlaringizni diqqat bilan tekshiramiz va ularning viza markazlari talablariga mos kelishini ta’minlaymiz. Shuningdek, vizani muvaffaqiyatli olish uchun zarur bo‘lgan sertifikatlar va ma’lumotlarni yig‘ishga yordam beramiz.",
+    "text5": "Biz sizning dam olishingizni maksimal darajada qulay qilish uchun sayohatlarni tashkil etish, mehmonxonalarni bron qilish va ekskursiyalarni o‘z ichiga olgan eng maqbul sayohat paketlarini tanlashni taklif etamiz.",
+    "text6": "Biz sizni va yaqinlaringizni sayohat davomida himoya qiladigan, har qanday vaziyatda xavfsizlik va ishonchni ta’minlaydigan sayohat sug‘urtasini tashkil etamiz."
+  },
+  "travels": {
+    "title": "Sayohatlarimiz"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Ulanishlar uchun:",
+    "phone": "+998 95 090 70 50",
+    "social_media": "Ijtimoiy tarmoqlar",
+    "instagram": "xusanovv.m",
+    "telegram": "t.me/xusanovvm",
+    "telegram_alt": "Telegram",
+    "location": "Toshkent, Mustaqillik 59.",
+    "form_title": "Ariza yuborish",
+    "name_placeholder": "Ism",
+    "surname_placeholder": "Familiya",
+    "phone_placeholder": "Telefon",
+    "message_placeholder": "Izohlar",
+    "submit_button": "Ariza Yuborish",
+    "modal_title": "Xabar muvaffaqiyatli yuborildi!"
+  }
+}
